@@ -1,2 +1,3 @@
 # Python教程
 Python入门到入土
+请查看代码仓库中的Python文件夹以查看教程
